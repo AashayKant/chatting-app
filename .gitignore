@@ -1,0 +1,18 @@
+# Global ignores
+node_modules/
+coverage/
+logs/
+.DS_Store
+.env
+*.env
+
+# Client
+client/build/
+
+# Server
+server/node_modules/
+server/.env
+server/certs/
+
+# IDE
+.vscode/
